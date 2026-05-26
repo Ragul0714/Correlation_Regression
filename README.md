@@ -78,12 +78,6 @@ plt.legend(['Regression Line','Data points'])
 
 plt.show()
 ```
-
-
-
-
-
-
 # Output
 <img width="1067" height="586" alt="image" src="https://github.com/user-attachments/assets/1113c02b-df99-4fb6-b36d-1ab4b940f289" />
 
